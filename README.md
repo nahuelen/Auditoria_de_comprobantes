@@ -1,0 +1,1 @@
+Este codigo se utiliza para poder cruzar datos de "Mis comprobantes" de Afip con un modelo del libro iva compras. El codigo genera un identificador unico en ambas tablas y las posteriormente las compara. El resultado son tres archivos, uno que genera las facturas faltantes en sistema, otro que genera las facturas que faltan en afip y otro que genera posibles errores de carga.
